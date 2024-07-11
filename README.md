@@ -1,7 +1,7 @@
 <b>Hi👋, I’m Tannaz</b><br/>
-A dedicated 👨🏻‍💻Software Engineer @STEGroup And 👩‍🏫Teacher Assistant at @DouglasCollege<br/>
+👨🏻‍💻Software Engineer @STEGroup And 👩‍🏫Teacher Assistant at @DouglasCollege<br/>
 Studied Computer in 🍁Canada, Have been on the ⭐️Dean's list for all semeters<br/>
-👀 Interested in new Full-Stack tools and development<br/>
+👀 Interested in new Full-Stack tools and developments<br/>
 🌱 I’m always learning ...<br/>
 📫 Reach out to me on <a href="https://www.linkedin.com/in/tannazetminan/">Linkedin</a>
 
