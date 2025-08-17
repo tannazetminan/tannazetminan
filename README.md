@@ -1,5 +1,5 @@
 <b>Hi👋, I’m Tannaz</b><br/>
-👨🏻‍💻Full Stack Developer @PiTech, Owner of @STEGroup And previose 👩‍🏫Teacher Assistant at @DouglasCollege<br/>
+👨🏻‍💻Full Stack Developer @PiTech, Owner of @STEGroup And previously a 👩‍🏫Teacher Assistant at @DouglasCollege<br/>
 Studied Computer in 🍁Canada, Have been on the ⭐️Dean's list for almost all semeters<br/>
 👀 Interested in new Full-Stack tools and developments<br/>
 🌱 I’m always learning ...<br/>
